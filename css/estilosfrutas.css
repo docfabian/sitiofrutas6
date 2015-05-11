@@ -1,0 +1,289 @@
+@charset "utf-8";
+/* CSS Document */
+
+#paginainicio
+{background: #AECFF7}
+#titulo 
+{background:#F7CA62}
+#pie 
+{background:#F7CA62; color:#000}
+#introduccion
+{background:#AECFF7; font-face:Lucida Handwriting; color:#FFFFFF; text-align:justify; size:3; width:98%; margin-left:1%; margin-bottom:0.5%; margin-top:0.5%}
+#bayastitulo
+{background:#8080FF; color:#000}
+#bayaspie
+{background:#FF8080; color:#000}
+#arandanotitulo
+{background:#F33; color:#000}
+#arandanocuerpo
+{background:#F99; color:#000}
+#arandanopie
+{background:#F33; color:#000}
+#frambuesatitulo
+{background:#ED381F; color:#000}
+#frambuesacuerpo
+{background:#FF8080; color:#000}
+#frambuesapie
+{background:#ED381F; color:#000}
+#fresatitulo
+{background:#EE8282; color:#000}
+#fresacuerpo
+{background:#F5A9A9; color:#000}
+#fresapie
+{background:#EE8282; color:#000}
+#grosellaespinosatitulo
+{background:#C4FC4E; color:#000}
+#grosellaespinosacuerpo
+{background:#C8F881; color:#000}
+#grosellaespinosapie
+{background:#C4FC4E; color:#000}
+#grosellanegracuerpo
+{background:#C8F881; color:#000}
+#grosellarojatitulo
+{background:#C4FC4E; color:#000}
+#grosellarojacuerpo
+{background:#FF8080; color:#000}
+#grosellarojapie
+{background:#C4FC4E; color:#000}
+#zarzamoratitulo
+{background:#7171FF; color:#000}
+#zarzamoracuerpo
+{background:#B9B9FF; color:#000}
+#zarzamoraapie
+{background:#7171FF; color:#000}
+#citricostitulo
+{background:#FFB058; color:#000}
+#citricospie
+{background:#A4F37F; color:#000}
+#limontitulo
+{background:#5AEC58; color:#000}
+#limoncuerpo
+{background:#A4F37F; color:#000}
+#limonpie
+{background:#5AEC58; color:#000}
+#mandarinatitulo
+{background:#FF8426; color:#000}
+#mandarinacuerpo
+{background:#FF9F4C; color:#000}
+#mandarinapie
+{background:#FF8426; color:#000}
+#naranjatitulo
+{background:#FCBF0C; color:#000}
+#naranjacuerpo
+{background:#FFC828; color:#000}
+#naranjapie
+{background:#FCBF0C; color:#000}
+#pomelotitulo
+{background:#FFC76B; color:#000}
+#pomelocuerpo
+{background:#FF744D; color:#000}
+#pomelopie
+{background:#FFC76B; color:#000}
+#cucurbitaceastitulo
+{background:#F55558; color:#000}
+#cucurbitaceaspie
+{background:#FF9849; color:#000}
+#melontitulo
+{background:#CDEF75; color:#000}
+#meloncuerpo
+{background:#FFCF56; color:#000}
+#melonpie
+{background:#CDEF75; color:#000}
+#sandiatitulo
+{background:#CDEF75; color:#000}
+#sandiacuerpo
+{background:#F55558; color:#000}
+#sandiapie
+{background:#CDEF75; color:#000}
+#exoticastitulo
+{background:#B5FC74; color:#000}
+#exoticaspie
+{background:#FFF56C; color:#000}
+#aguacatetitulo
+{background:#598700; color:#000}
+#aguacatecuerpo
+{background:#C6F962; color:#000}
+#aguacatepie
+{background:#598700; color:#000}
+#carambolatitulo
+{background:#C6FF56; color:#000}
+#carambolacuerpo
+{background:#FFF56C; color:#000}
+#carambolapie
+{background:#C6FF56; color:#000}
+#cocotitulo
+{background:#685629; color:#FFFFFF}
+#cococuerpo
+{background:#FFFFFF; color:#000}
+#cocopie
+{background:#685629; color:#FFFFFF}
+#chirimoyatitulo
+{background:#9DF467; color:#FFFFFF}
+#chirimoyacuerpo
+{background:#FFFFFF; color:#000}
+#chirimoyapie
+{background:#9DF467; color:#FFFFFF}
+#datiltitulo
+{background:#685629; color:#FFFFFF}
+#datilcuerpo
+{background:#B79461; color:#FFFFFF}
+#datilpie
+{background:#685629; color:#FFFFFF}
+#frutadelapasiontitulo
+{background:#FFF176; color:#000}
+#frutadelapasioncuerpo
+{background:#F4E68A; color:#000}
+#frutadelapasionpie
+{background:#FFF176; color:#000}
+#kiwititulo
+{background:#B79461; color:#FFFFFF}
+#kiwicuerpo
+{background:#68B94C; color:#FFFFFF}
+#kiwipie
+{background:#B79461; color:#FFFFFF}
+#litchititulo
+{background:#FF393C; color:#FFFFFF}
+#litchicuerpo
+{background:#FFFFFF; color:#000}
+#litchipie
+{background:#FF393C; color:#FFFFFF}
+#mangotitulo
+{background:#FFD939; color:#000}
+#mangocuerpo
+{background:#FFF56C; color:#000}
+#mangopie
+{background:#FFD939; color:#000}
+#papayatitulo
+{background:#FF894C; color:#000}
+#papayacuerpo
+{background:#FFA14F; color:#000}
+#papayapie
+{background:#FF894C; color:#000}
+#piñatitulo
+{background:#5C7B28; color:#FFFFFF}
+#piñacuerpo
+{background:#FFE643; color:#000}
+#piñapie
+{background:#5C7B28; color:#FFFFFF}
+#platanotitulo
+{background:#F8FF00; color:#000}
+#platanocuerpo
+{background:#FFFE83; color:#000}
+#platanopie
+{background:#F8FF00; color:#000}
+#frutadulcetitulo
+{background:#FF4F51; color:#000}
+#frutadulcepie
+{background:#FFA25A; color:#000}
+#albaricoquetitulo
+{background:#FF9762; color:#000}
+#albaricoquecuerpo
+{background:#FFD97A; color:#000}
+#albaricoquepie
+{background:#FF9762; color:#000}
+#cerezatitulo
+{background:#FF0004; color:#FFFFFF}
+#cerezacuerpo
+{background:#FF4346; color:#FFFFFF}
+#cerezapie
+{background:#FF0004; color:#FFFFFF}
+#ciruelatitulo
+{background:#C92160; color:#FFFFFF}
+#ciruelacuerpo
+{background:#E57091; color:#FFFFFF}
+#ciruelapie
+{background:#C92160; color:#FFFFFF}
+#higotitulo
+{background:#4E2A2A; color:#FFFFFF}
+#higocuerpo
+{background:#FDD170; color:#000}
+#higopie
+{background:#4E2A2A; color:#FFFFFF}
+#kakititulo
+{background:#5C7B28; color:#FFFFFF}
+#kakicuerpo
+{background:#FDC449; color:#000}
+#kakipie
+{background:#5C7B28; color:#FFFFFF}
+#manzanatitulo
+{background:#F9F800; color:#000}
+#manzanacuerpo
+{background:#FFD55B; color:#000}
+#manzanapie
+{background:#F9F800; color:#000}
+#melocotontitulo
+{background:#FFC548; color:#000}
+#melocotoncuerpo
+{background:#FF9438; color:#FFFFFF}
+#melocotonpie
+{background:#FFC548; color:#000}
+#nectarinatitulo
+{background:#FF3A3D; color:#FFFFFF}
+#nectarinacuerpo
+{background:#F7F04B; color:#000}
+#nectarinapie
+{background:#FF3A3D; color:#FFFFFF}
+#nisperotitulo
+{background:#FFF466; color:#000}
+#nisperocuerpo
+{background:#FFCB76; color:#000}
+#nisperopie
+{background:#FFF466; color:#000}
+#peratitulo
+{background:#A5FF90; color:#000}
+#peracuerpo
+{background:#F9F7F7; color:#000}
+#perapie
+{background:#A5FF90; color:#000}
+#uvatitulo
+{background:#C8DF61; color:#FFFFFF}
+#uvacuerpo
+{background:#BFFF41; color:#000}
+#uvapie
+{background:#C8DF61; color:#FFFFFF}
+#frutossecostitulo
+{background:#DBA364; color:#FFFFFF}
+#frutossecospie
+{background:#E3AF82; color:#FFFFFF}
+#almendratitulo
+{background:#F3A145; color:#000}
+#almendracuerpo
+{background:#D38B4C; color:#FFFFFF}
+#almendrapie
+{background:#F3A145; color:#000}
+#avellanatitulo
+{background:#DB5132; color:#000}
+#avellanacuerpo
+{background:#D1946B; color:#FFFFFF}
+#avellanapie
+{background:#DB5132; color:#000}
+#cacahuatetitulo
+{background:#FFD670; color:#000}
+#cacahuatecuerpo
+{background:#FFBD84; color:#000}
+#cacahuatepie
+{background:#FFD670; color:#000}
+#castañatitulo
+{background:#5B5353; color:#000}
+#castañacuerpo
+{background:#F7BE86; color:#000}
+#castañapie
+{background:#5B5353; color:#000}
+#nueztitulo
+{background:#D0A86F; color:#000}
+#nuezcuerpo
+{background:#E4B78F; color:#000}
+#nuezpie
+{background:#D0A86F; color:#000}
+#pacanatitulo
+{background:#B7855A; color:#000}
+#pacanacuerpo
+{background:#D7A279; color:#000}
+#pacanapie
+{background:#B7855A; color:#000}
+#pistachotitulo
+{background:#A5FF90; color:#000}
+#pistachocuerpo
+{background:#E3CCBC; color:#000}
+#pistachopie
+{background:#A5FF90; color:#000}
